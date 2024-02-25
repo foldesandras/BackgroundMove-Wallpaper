@@ -8,7 +8,7 @@ You can download the latest release from the [Releases](https://github.com/folde
 
 ### Usage
 
-Simply download the executable file and run it on your Windows machine. Follow the on-screen instructions to set up the animation for your background images.
+Simply download the ZIP extract it and run the executable file on your Windows machine. Follow the on-screen instructions to set up the animation for your background images.
 
 ### Contributing
 
