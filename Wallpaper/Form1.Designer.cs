@@ -39,11 +39,11 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.webView21.CreationProperties = null;
-            this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView21.DefaultBackgroundColor = System.Drawing.Color.RosyBrown;
             this.webView21.Location = new System.Drawing.Point(0, 0);
             this.webView21.Name = "webView21";
             this.webView21.Size = new System.Drawing.Size(800, 450);
-            this.webView21.Source = new System.Uri("C:\\Users\\Foldes\\Documents\\Python\\Stream\\html.html", System.UriKind.Absolute);
+            this.webView21.Source = new System.Uri("https://www.google.com", System.UriKind.Absolute);
             this.webView21.TabIndex = 0;
             this.webView21.ZoomFactor = 1D;
             this.webView21.Click += new System.EventHandler(this.MyGotFocus);
